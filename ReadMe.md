@@ -109,8 +109,8 @@ id: Honduras
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./Honduras//
-markerFolder: ./Honduras/
+geojsonFolder: .//
+markerFolder: ./
 ```
 
 [name-en::Honduras] 
