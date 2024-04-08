@@ -129,8 +129,10 @@ Capital :: [[Honduras/Counties/Francisco_Morazán/City/Tegucigalpa]]
 
 [Alcohol-l::4.5] 
 [Language-Id::492] 
-[geo-lon::-87.2167] 
-[geo-lat::14.1] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-87.2167] 
+[has_place_latitude::14.1] 
 
 
 

@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::-87.21667] 
-[geo-lat::14.1] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-87.21667] 
+[has_place_latitude::14.1] 
 [name::Tegucigalpa] 
 State ::  
 Country :: [[../../../../Honduras]]  
