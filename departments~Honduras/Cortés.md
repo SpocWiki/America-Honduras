@@ -40,11 +40,16 @@ markerFolder: ./Cortés/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/America~Central/Honduras/Counties/Cortés|Cortés]] 
-- [[../../../../../../_public/geo/Continent/America~Central/Honduras/Counties/Cortés.public|Cortés.public]] 
-- [[../../../../../../_internal/geo/Continent/America~Central/Honduras/Counties/Cortés.internal|Cortés.internal]] 
-- [[../../../../../../_protect/geo/Continent/America~Central/Honduras/Counties/Cortés.protect|Cortés.protect]] 
-- [[../../../../../../_private/geo/Continent/America~Central/Honduras/Counties/Cortés.private|Cortés.private]] 
-- [[../../../../../../_personal/geo/Continent/America~Central/Honduras/Counties/Cortés.personal|Cortés.personal]] 
-- [[../../../../../../_secret/geo/Continent/America~Central/Honduras/Counties/Cortés.secret|Cortés.secret]] 
+
+### [Cortés.public](/_public/\Earth\Continent\America~Central\Honduras\departments~HondurasCortés.public.md) 
+
+### [Cortés.internal](/_internal/\Earth\Continent\America~Central\Honduras\departments~HondurasCortés.internal.md) 
+
+### [Cortés.protect](/_protect/\Earth\Continent\America~Central\Honduras\departments~HondurasCortés.protect.md) 
+
+### [Cortés.private](/_private/\Earth\Continent\America~Central\Honduras\departments~HondurasCortés.private.md) 
+
+### [Cortés.personal](/_personal/\Earth\Continent\America~Central\Honduras\departments~HondurasCortés.personal.md) 
+
+### [Cortés.secret](/_secret/\Earth\Continent\America~Central\Honduras\departments~HondurasCortés.secret.md)
 

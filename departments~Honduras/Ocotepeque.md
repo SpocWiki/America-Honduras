@@ -40,11 +40,16 @@ markerFolder: ./Ocotepeque/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/America~Central/Honduras/Counties/Ocotepeque|Ocotepeque]] 
-- [[../../../../../../_public/geo/Continent/America~Central/Honduras/Counties/Ocotepeque.public|Ocotepeque.public]] 
-- [[../../../../../../_internal/geo/Continent/America~Central/Honduras/Counties/Ocotepeque.internal|Ocotepeque.internal]] 
-- [[../../../../../../_protect/geo/Continent/America~Central/Honduras/Counties/Ocotepeque.protect|Ocotepeque.protect]] 
-- [[../../../../../../_private/geo/Continent/America~Central/Honduras/Counties/Ocotepeque.private|Ocotepeque.private]] 
-- [[../../../../../../_personal/geo/Continent/America~Central/Honduras/Counties/Ocotepeque.personal|Ocotepeque.personal]] 
-- [[../../../../../../_secret/geo/Continent/America~Central/Honduras/Counties/Ocotepeque.secret|Ocotepeque.secret]] 
+
+### [Ocotepeque.public](/_public/\Earth\Continent\America~Central\Honduras\departments~HondurasOcotepeque.public.md) 
+
+### [Ocotepeque.internal](/_internal/\Earth\Continent\America~Central\Honduras\departments~HondurasOcotepeque.internal.md) 
+
+### [Ocotepeque.protect](/_protect/\Earth\Continent\America~Central\Honduras\departments~HondurasOcotepeque.protect.md) 
+
+### [Ocotepeque.private](/_private/\Earth\Continent\America~Central\Honduras\departments~HondurasOcotepeque.private.md) 
+
+### [Ocotepeque.personal](/_personal/\Earth\Continent\America~Central\Honduras\departments~HondurasOcotepeque.personal.md) 
+
+### [Ocotepeque.secret](/_secret/\Earth\Continent\America~Central\Honduras\departments~HondurasOcotepeque.secret.md)
 

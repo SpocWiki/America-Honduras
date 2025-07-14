@@ -40,11 +40,16 @@ markerFolder: ./Islas_de_la_Bahía/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/America~Central/Honduras/Counties/Islas_de_la_Bahía|Islas_de_la_Bahía]] 
-- [[../../../../../../_public/geo/Continent/America~Central/Honduras/Counties/Islas_de_la_Bahía.public|Islas_de_la_Bahía.public]] 
-- [[../../../../../../_internal/geo/Continent/America~Central/Honduras/Counties/Islas_de_la_Bahía.internal|Islas_de_la_Bahía.internal]] 
-- [[../../../../../../_protect/geo/Continent/America~Central/Honduras/Counties/Islas_de_la_Bahía.protect|Islas_de_la_Bahía.protect]] 
-- [[../../../../../../_private/geo/Continent/America~Central/Honduras/Counties/Islas_de_la_Bahía.private|Islas_de_la_Bahía.private]] 
-- [[../../../../../../_personal/geo/Continent/America~Central/Honduras/Counties/Islas_de_la_Bahía.personal|Islas_de_la_Bahía.personal]] 
-- [[../../../../../../_secret/geo/Continent/America~Central/Honduras/Counties/Islas_de_la_Bahía.secret|Islas_de_la_Bahía.secret]] 
+
+### [Islas_de_la_Bahía.public](/_public/\Earth\Continent\America~Central\Honduras\departments~HondurasIslas_de_la_Bahía.public.md) 
+
+### [Islas_de_la_Bahía.internal](/_internal/\Earth\Continent\America~Central\Honduras\departments~HondurasIslas_de_la_Bahía.internal.md) 
+
+### [Islas_de_la_Bahía.protect](/_protect/\Earth\Continent\America~Central\Honduras\departments~HondurasIslas_de_la_Bahía.protect.md) 
+
+### [Islas_de_la_Bahía.private](/_private/\Earth\Continent\America~Central\Honduras\departments~HondurasIslas_de_la_Bahía.private.md) 
+
+### [Islas_de_la_Bahía.personal](/_personal/\Earth\Continent\America~Central\Honduras\departments~HondurasIslas_de_la_Bahía.personal.md) 
+
+### [Islas_de_la_Bahía.secret](/_secret/\Earth\Continent\America~Central\Honduras\departments~HondurasIslas_de_la_Bahía.secret.md)
 

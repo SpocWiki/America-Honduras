@@ -40,11 +40,16 @@ markerFolder: ./Yoro/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/America~Central/Honduras/Counties/Yoro|Yoro]] 
-- [[../../../../../../_public/geo/Continent/America~Central/Honduras/Counties/Yoro.public|Yoro.public]] 
-- [[../../../../../../_internal/geo/Continent/America~Central/Honduras/Counties/Yoro.internal|Yoro.internal]] 
-- [[../../../../../../_protect/geo/Continent/America~Central/Honduras/Counties/Yoro.protect|Yoro.protect]] 
-- [[../../../../../../_private/geo/Continent/America~Central/Honduras/Counties/Yoro.private|Yoro.private]] 
-- [[../../../../../../_personal/geo/Continent/America~Central/Honduras/Counties/Yoro.personal|Yoro.personal]] 
-- [[../../../../../../_secret/geo/Continent/America~Central/Honduras/Counties/Yoro.secret|Yoro.secret]] 
+
+### [Yoro.public](/_public/\Earth\Continent\America~Central\Honduras\departments~HondurasYoro.public.md) 
+
+### [Yoro.internal](/_internal/\Earth\Continent\America~Central\Honduras\departments~HondurasYoro.internal.md) 
+
+### [Yoro.protect](/_protect/\Earth\Continent\America~Central\Honduras\departments~HondurasYoro.protect.md) 
+
+### [Yoro.private](/_private/\Earth\Continent\America~Central\Honduras\departments~HondurasYoro.private.md) 
+
+### [Yoro.personal](/_personal/\Earth\Continent\America~Central\Honduras\departments~HondurasYoro.personal.md) 
+
+### [Yoro.secret](/_secret/\Earth\Continent\America~Central\Honduras\departments~HondurasYoro.secret.md)
 

@@ -40,11 +40,16 @@ markerFolder: ./Intibucá/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/America~Central/Honduras/Counties/Intibucá|Intibucá]] 
-- [[../../../../../../_public/geo/Continent/America~Central/Honduras/Counties/Intibucá.public|Intibucá.public]] 
-- [[../../../../../../_internal/geo/Continent/America~Central/Honduras/Counties/Intibucá.internal|Intibucá.internal]] 
-- [[../../../../../../_protect/geo/Continent/America~Central/Honduras/Counties/Intibucá.protect|Intibucá.protect]] 
-- [[../../../../../../_private/geo/Continent/America~Central/Honduras/Counties/Intibucá.private|Intibucá.private]] 
-- [[../../../../../../_personal/geo/Continent/America~Central/Honduras/Counties/Intibucá.personal|Intibucá.personal]] 
-- [[../../../../../../_secret/geo/Continent/America~Central/Honduras/Counties/Intibucá.secret|Intibucá.secret]] 
+
+### [Intibucá.public](/_public/\Earth\Continent\America~Central\Honduras\departments~HondurasIntibucá.public.md) 
+
+### [Intibucá.internal](/_internal/\Earth\Continent\America~Central\Honduras\departments~HondurasIntibucá.internal.md) 
+
+### [Intibucá.protect](/_protect/\Earth\Continent\America~Central\Honduras\departments~HondurasIntibucá.protect.md) 
+
+### [Intibucá.private](/_private/\Earth\Continent\America~Central\Honduras\departments~HondurasIntibucá.private.md) 
+
+### [Intibucá.personal](/_personal/\Earth\Continent\America~Central\Honduras\departments~HondurasIntibucá.personal.md) 
+
+### [Intibucá.secret](/_secret/\Earth\Continent\America~Central\Honduras\departments~HondurasIntibucá.secret.md)
 
