@@ -41,15 +41,17 @@ markerFolder: ./Ocotepeque/
 
 ## Confidential Links & Embeds: 
 
-### [Ocotepeque.public](/_public/\Earth\Continent\America~Central\Honduras\departments~HondurasOcotepeque.public.md) 
+### [Ocotepeque](/_Standards/Earth/Continent/America~Central/Honduras/departments~Honduras/Ocotepeque.md) 
 
-### [Ocotepeque.internal](/_internal/\Earth\Continent\America~Central\Honduras\departments~HondurasOcotepeque.internal.md) 
+### [Ocotepeque.public](/_public/Earth/Continent/America~Central/Honduras/departments~Honduras/Ocotepeque.public.md) 
 
-### [Ocotepeque.protect](/_protect/\Earth\Continent\America~Central\Honduras\departments~HondurasOcotepeque.protect.md) 
+### [Ocotepeque.internal](/_internal/Earth/Continent/America~Central/Honduras/departments~Honduras/Ocotepeque.internal.md) 
 
-### [Ocotepeque.private](/_private/\Earth\Continent\America~Central\Honduras\departments~HondurasOcotepeque.private.md) 
+### [Ocotepeque.protect](/_protect/Earth/Continent/America~Central/Honduras/departments~Honduras/Ocotepeque.protect.md) 
 
-### [Ocotepeque.personal](/_personal/\Earth\Continent\America~Central\Honduras\departments~HondurasOcotepeque.personal.md) 
+### [Ocotepeque.private](/_private/Earth/Continent/America~Central/Honduras/departments~Honduras/Ocotepeque.private.md) 
 
-### [Ocotepeque.secret](/_secret/\Earth\Continent\America~Central\Honduras\departments~HondurasOcotepeque.secret.md)
+### [Ocotepeque.personal](/_personal/Earth/Continent/America~Central/Honduras/departments~Honduras/Ocotepeque.personal.md) 
+
+### [Ocotepeque.secret](/_secret/Earth/Continent/America~Central/Honduras/departments~Honduras/Ocotepeque.secret.md)
 

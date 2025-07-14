@@ -41,15 +41,17 @@ markerFolder: ./Gracias_a_Dios/
 
 ## Confidential Links & Embeds: 
 
-### [Gracias_a_Dios.public](/_public/\Earth\Continent\America~Central\Honduras\departments~HondurasGracias_a_Dios.public.md) 
+### [Gracias_a_Dios](/_Standards/Earth/Continent/America~Central/Honduras/departments~Honduras/Gracias_a_Dios.md) 
 
-### [Gracias_a_Dios.internal](/_internal/\Earth\Continent\America~Central\Honduras\departments~HondurasGracias_a_Dios.internal.md) 
+### [Gracias_a_Dios.public](/_public/Earth/Continent/America~Central/Honduras/departments~Honduras/Gracias_a_Dios.public.md) 
 
-### [Gracias_a_Dios.protect](/_protect/\Earth\Continent\America~Central\Honduras\departments~HondurasGracias_a_Dios.protect.md) 
+### [Gracias_a_Dios.internal](/_internal/Earth/Continent/America~Central/Honduras/departments~Honduras/Gracias_a_Dios.internal.md) 
 
-### [Gracias_a_Dios.private](/_private/\Earth\Continent\America~Central\Honduras\departments~HondurasGracias_a_Dios.private.md) 
+### [Gracias_a_Dios.protect](/_protect/Earth/Continent/America~Central/Honduras/departments~Honduras/Gracias_a_Dios.protect.md) 
 
-### [Gracias_a_Dios.personal](/_personal/\Earth\Continent\America~Central\Honduras\departments~HondurasGracias_a_Dios.personal.md) 
+### [Gracias_a_Dios.private](/_private/Earth/Continent/America~Central/Honduras/departments~Honduras/Gracias_a_Dios.private.md) 
 
-### [Gracias_a_Dios.secret](/_secret/\Earth\Continent\America~Central\Honduras\departments~HondurasGracias_a_Dios.secret.md)
+### [Gracias_a_Dios.personal](/_personal/Earth/Continent/America~Central/Honduras/departments~Honduras/Gracias_a_Dios.personal.md) 
+
+### [Gracias_a_Dios.secret](/_secret/Earth/Continent/America~Central/Honduras/departments~Honduras/Gracias_a_Dios.secret.md)
 

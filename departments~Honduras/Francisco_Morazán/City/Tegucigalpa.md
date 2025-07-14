@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Tegucigalpa.public](/_public/\Earth\Continent\America~Central\Honduras\departments~Honduras\Francisco_Morazán\CityTegucigalpa.public.md) 
+### [Tegucigalpa](/_Standards/Earth/Continent/America~Central/Honduras/departments~Honduras/Francisco_Morazán/City/Tegucigalpa.md) 
 
-### [Tegucigalpa.internal](/_internal/\Earth\Continent\America~Central\Honduras\departments~Honduras\Francisco_Morazán\CityTegucigalpa.internal.md) 
+### [Tegucigalpa.public](/_public/Earth/Continent/America~Central/Honduras/departments~Honduras/Francisco_Morazán/City/Tegucigalpa.public.md) 
 
-### [Tegucigalpa.protect](/_protect/\Earth\Continent\America~Central\Honduras\departments~Honduras\Francisco_Morazán\CityTegucigalpa.protect.md) 
+### [Tegucigalpa.internal](/_internal/Earth/Continent/America~Central/Honduras/departments~Honduras/Francisco_Morazán/City/Tegucigalpa.internal.md) 
 
-### [Tegucigalpa.private](/_private/\Earth\Continent\America~Central\Honduras\departments~Honduras\Francisco_Morazán\CityTegucigalpa.private.md) 
+### [Tegucigalpa.protect](/_protect/Earth/Continent/America~Central/Honduras/departments~Honduras/Francisco_Morazán/City/Tegucigalpa.protect.md) 
 
-### [Tegucigalpa.personal](/_personal/\Earth\Continent\America~Central\Honduras\departments~Honduras\Francisco_Morazán\CityTegucigalpa.personal.md) 
+### [Tegucigalpa.private](/_private/Earth/Continent/America~Central/Honduras/departments~Honduras/Francisco_Morazán/City/Tegucigalpa.private.md) 
 
-### [Tegucigalpa.secret](/_secret/\Earth\Continent\America~Central\Honduras\departments~Honduras\Francisco_Morazán\CityTegucigalpa.secret.md)
+### [Tegucigalpa.personal](/_personal/Earth/Continent/America~Central/Honduras/departments~Honduras/Francisco_Morazán/City/Tegucigalpa.personal.md) 
+
+### [Tegucigalpa.secret](/_secret/Earth/Continent/America~Central/Honduras/departments~Honduras/Francisco_Morazán/City/Tegucigalpa.secret.md)
 

@@ -41,15 +41,17 @@ markerFolder: ./Yoro/
 
 ## Confidential Links & Embeds: 
 
-### [Yoro.public](/_public/\Earth\Continent\America~Central\Honduras\departments~HondurasYoro.public.md) 
+### [Yoro](/_Standards/Earth/Continent/America~Central/Honduras/departments~Honduras/Yoro.md) 
 
-### [Yoro.internal](/_internal/\Earth\Continent\America~Central\Honduras\departments~HondurasYoro.internal.md) 
+### [Yoro.public](/_public/Earth/Continent/America~Central/Honduras/departments~Honduras/Yoro.public.md) 
 
-### [Yoro.protect](/_protect/\Earth\Continent\America~Central\Honduras\departments~HondurasYoro.protect.md) 
+### [Yoro.internal](/_internal/Earth/Continent/America~Central/Honduras/departments~Honduras/Yoro.internal.md) 
 
-### [Yoro.private](/_private/\Earth\Continent\America~Central\Honduras\departments~HondurasYoro.private.md) 
+### [Yoro.protect](/_protect/Earth/Continent/America~Central/Honduras/departments~Honduras/Yoro.protect.md) 
 
-### [Yoro.personal](/_personal/\Earth\Continent\America~Central\Honduras\departments~HondurasYoro.personal.md) 
+### [Yoro.private](/_private/Earth/Continent/America~Central/Honduras/departments~Honduras/Yoro.private.md) 
 
-### [Yoro.secret](/_secret/\Earth\Continent\America~Central\Honduras\departments~HondurasYoro.secret.md)
+### [Yoro.personal](/_personal/Earth/Continent/America~Central/Honduras/departments~Honduras/Yoro.personal.md) 
+
+### [Yoro.secret](/_secret/Earth/Continent/America~Central/Honduras/departments~Honduras/Yoro.secret.md)
 

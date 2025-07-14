@@ -135,15 +135,17 @@ Capital :: [[Honduras/Counties/Francisco_Morazán/City/Tegucigalpa]]
 
 ## Confidential Links & Embeds: 
 
-### [ReadMe.public](/_public/\Earth\Continent\America~Central\HondurasReadMe.public.md) 
+### [ReadMe](/_Standards/Earth/Continent/America~Central/Honduras/ReadMe.md) 
 
-### [ReadMe.internal](/_internal/\Earth\Continent\America~Central\HondurasReadMe.internal.md) 
+### [ReadMe.public](/_public/Earth/Continent/America~Central/Honduras/ReadMe.public.md) 
 
-### [ReadMe.protect](/_protect/\Earth\Continent\America~Central\HondurasReadMe.protect.md) 
+### [ReadMe.internal](/_internal/Earth/Continent/America~Central/Honduras/ReadMe.internal.md) 
 
-### [ReadMe.private](/_private/\Earth\Continent\America~Central\HondurasReadMe.private.md) 
+### [ReadMe.protect](/_protect/Earth/Continent/America~Central/Honduras/ReadMe.protect.md) 
 
-### [ReadMe.personal](/_personal/\Earth\Continent\America~Central\HondurasReadMe.personal.md) 
+### [ReadMe.private](/_private/Earth/Continent/America~Central/Honduras/ReadMe.private.md) 
 
-### [ReadMe.secret](/_secret/\Earth\Continent\America~Central\HondurasReadMe.secret.md)
+### [ReadMe.personal](/_personal/Earth/Continent/America~Central/Honduras/ReadMe.personal.md) 
+
+### [ReadMe.secret](/_secret/Earth/Continent/America~Central/Honduras/ReadMe.secret.md)
 

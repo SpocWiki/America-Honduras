@@ -41,15 +41,17 @@ markerFolder: ./Lempira/
 
 ## Confidential Links & Embeds: 
 
-### [Lempira.public](/_public/\Earth\Continent\America~Central\Honduras\departments~HondurasLempira.public.md) 
+### [Lempira](/_Standards/Earth/Continent/America~Central/Honduras/departments~Honduras/Lempira.md) 
 
-### [Lempira.internal](/_internal/\Earth\Continent\America~Central\Honduras\departments~HondurasLempira.internal.md) 
+### [Lempira.public](/_public/Earth/Continent/America~Central/Honduras/departments~Honduras/Lempira.public.md) 
 
-### [Lempira.protect](/_protect/\Earth\Continent\America~Central\Honduras\departments~HondurasLempira.protect.md) 
+### [Lempira.internal](/_internal/Earth/Continent/America~Central/Honduras/departments~Honduras/Lempira.internal.md) 
 
-### [Lempira.private](/_private/\Earth\Continent\America~Central\Honduras\departments~HondurasLempira.private.md) 
+### [Lempira.protect](/_protect/Earth/Continent/America~Central/Honduras/departments~Honduras/Lempira.protect.md) 
 
-### [Lempira.personal](/_personal/\Earth\Continent\America~Central\Honduras\departments~HondurasLempira.personal.md) 
+### [Lempira.private](/_private/Earth/Continent/America~Central/Honduras/departments~Honduras/Lempira.private.md) 
 
-### [Lempira.secret](/_secret/\Earth\Continent\America~Central\Honduras\departments~HondurasLempira.secret.md)
+### [Lempira.personal](/_personal/Earth/Continent/America~Central/Honduras/departments~Honduras/Lempira.personal.md) 
+
+### [Lempira.secret](/_secret/Earth/Continent/America~Central/Honduras/departments~Honduras/Lempira.secret.md)
 

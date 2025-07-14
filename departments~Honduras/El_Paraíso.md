@@ -41,15 +41,17 @@ markerFolder: ./El_Paraíso/
 
 ## Confidential Links & Embeds: 
 
-### [El_Paraíso.public](/_public/\Earth\Continent\America~Central\Honduras\departments~HondurasEl_Paraíso.public.md) 
+### [El_Paraíso](/_Standards/Earth/Continent/America~Central/Honduras/departments~Honduras/El_Paraíso.md) 
 
-### [El_Paraíso.internal](/_internal/\Earth\Continent\America~Central\Honduras\departments~HondurasEl_Paraíso.internal.md) 
+### [El_Paraíso.public](/_public/Earth/Continent/America~Central/Honduras/departments~Honduras/El_Paraíso.public.md) 
 
-### [El_Paraíso.protect](/_protect/\Earth\Continent\America~Central\Honduras\departments~HondurasEl_Paraíso.protect.md) 
+### [El_Paraíso.internal](/_internal/Earth/Continent/America~Central/Honduras/departments~Honduras/El_Paraíso.internal.md) 
 
-### [El_Paraíso.private](/_private/\Earth\Continent\America~Central\Honduras\departments~HondurasEl_Paraíso.private.md) 
+### [El_Paraíso.protect](/_protect/Earth/Continent/America~Central/Honduras/departments~Honduras/El_Paraíso.protect.md) 
 
-### [El_Paraíso.personal](/_personal/\Earth\Continent\America~Central\Honduras\departments~HondurasEl_Paraíso.personal.md) 
+### [El_Paraíso.private](/_private/Earth/Continent/America~Central/Honduras/departments~Honduras/El_Paraíso.private.md) 
 
-### [El_Paraíso.secret](/_secret/\Earth\Continent\America~Central\Honduras\departments~HondurasEl_Paraíso.secret.md)
+### [El_Paraíso.personal](/_personal/Earth/Continent/America~Central/Honduras/departments~Honduras/El_Paraíso.personal.md) 
+
+### [El_Paraíso.secret](/_secret/Earth/Continent/America~Central/Honduras/departments~Honduras/El_Paraíso.secret.md)
 

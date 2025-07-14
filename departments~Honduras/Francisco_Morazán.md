@@ -41,15 +41,17 @@ markerFolder: ./Francisco_Morazán/
 
 ## Confidential Links & Embeds: 
 
-### [Francisco_Morazán.public](/_public/\Earth\Continent\America~Central\Honduras\departments~HondurasFrancisco_Morazán.public.md) 
+### [Francisco_Morazán](/_Standards/Earth/Continent/America~Central/Honduras/departments~Honduras/Francisco_Morazán.md) 
 
-### [Francisco_Morazán.internal](/_internal/\Earth\Continent\America~Central\Honduras\departments~HondurasFrancisco_Morazán.internal.md) 
+### [Francisco_Morazán.public](/_public/Earth/Continent/America~Central/Honduras/departments~Honduras/Francisco_Morazán.public.md) 
 
-### [Francisco_Morazán.protect](/_protect/\Earth\Continent\America~Central\Honduras\departments~HondurasFrancisco_Morazán.protect.md) 
+### [Francisco_Morazán.internal](/_internal/Earth/Continent/America~Central/Honduras/departments~Honduras/Francisco_Morazán.internal.md) 
 
-### [Francisco_Morazán.private](/_private/\Earth\Continent\America~Central\Honduras\departments~HondurasFrancisco_Morazán.private.md) 
+### [Francisco_Morazán.protect](/_protect/Earth/Continent/America~Central/Honduras/departments~Honduras/Francisco_Morazán.protect.md) 
 
-### [Francisco_Morazán.personal](/_personal/\Earth\Continent\America~Central\Honduras\departments~HondurasFrancisco_Morazán.personal.md) 
+### [Francisco_Morazán.private](/_private/Earth/Continent/America~Central/Honduras/departments~Honduras/Francisco_Morazán.private.md) 
 
-### [Francisco_Morazán.secret](/_secret/\Earth\Continent\America~Central\Honduras\departments~HondurasFrancisco_Morazán.secret.md)
+### [Francisco_Morazán.personal](/_personal/Earth/Continent/America~Central/Honduras/departments~Honduras/Francisco_Morazán.personal.md) 
+
+### [Francisco_Morazán.secret](/_secret/Earth/Continent/America~Central/Honduras/departments~Honduras/Francisco_Morazán.secret.md)
 

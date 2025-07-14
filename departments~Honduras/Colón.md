@@ -41,15 +41,17 @@ markerFolder: ./Colón/
 
 ## Confidential Links & Embeds: 
 
-### [Colón.public](/_public/\Earth\Continent\America~Central\Honduras\departments~HondurasColón.public.md) 
+### [Colón](/_Standards/Earth/Continent/America~Central/Honduras/departments~Honduras/Colón.md) 
 
-### [Colón.internal](/_internal/\Earth\Continent\America~Central\Honduras\departments~HondurasColón.internal.md) 
+### [Colón.public](/_public/Earth/Continent/America~Central/Honduras/departments~Honduras/Colón.public.md) 
 
-### [Colón.protect](/_protect/\Earth\Continent\America~Central\Honduras\departments~HondurasColón.protect.md) 
+### [Colón.internal](/_internal/Earth/Continent/America~Central/Honduras/departments~Honduras/Colón.internal.md) 
 
-### [Colón.private](/_private/\Earth\Continent\America~Central\Honduras\departments~HondurasColón.private.md) 
+### [Colón.protect](/_protect/Earth/Continent/America~Central/Honduras/departments~Honduras/Colón.protect.md) 
 
-### [Colón.personal](/_personal/\Earth\Continent\America~Central\Honduras\departments~HondurasColón.personal.md) 
+### [Colón.private](/_private/Earth/Continent/America~Central/Honduras/departments~Honduras/Colón.private.md) 
 
-### [Colón.secret](/_secret/\Earth\Continent\America~Central\Honduras\departments~HondurasColón.secret.md)
+### [Colón.personal](/_personal/Earth/Continent/America~Central/Honduras/departments~Honduras/Colón.personal.md) 
+
+### [Colón.secret](/_secret/Earth/Continent/America~Central/Honduras/departments~Honduras/Colón.secret.md)
 

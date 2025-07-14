@@ -113,15 +113,17 @@ Creative Commons may be contacted at <http://creativecommons.org/>.
 
 ## Confidential Links & Embeds: 
 
-### [License.public](/_public/\Earth\Continent\America~Central\HondurasLicense.public.md) 
+### [License](/_Standards/Earth/Continent/America~Central/Honduras/License.md) 
 
-### [License.internal](/_internal/\Earth\Continent\America~Central\HondurasLicense.internal.md) 
+### [License.public](/_public/Earth/Continent/America~Central/Honduras/License.public.md) 
 
-### [License.protect](/_protect/\Earth\Continent\America~Central\HondurasLicense.protect.md) 
+### [License.internal](/_internal/Earth/Continent/America~Central/Honduras/License.internal.md) 
 
-### [License.private](/_private/\Earth\Continent\America~Central\HondurasLicense.private.md) 
+### [License.protect](/_protect/Earth/Continent/America~Central/Honduras/License.protect.md) 
 
-### [License.personal](/_personal/\Earth\Continent\America~Central\HondurasLicense.personal.md) 
+### [License.private](/_private/Earth/Continent/America~Central/Honduras/License.private.md) 
 
-### [License.secret](/_secret/\Earth\Continent\America~Central\HondurasLicense.secret.md)
+### [License.personal](/_personal/Earth/Continent/America~Central/Honduras/License.personal.md) 
+
+### [License.secret](/_secret/Earth/Continent/America~Central/Honduras/License.secret.md)
 

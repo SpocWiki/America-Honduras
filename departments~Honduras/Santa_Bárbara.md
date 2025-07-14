@@ -41,15 +41,17 @@ markerFolder: ./Santa_Bárbara/
 
 ## Confidential Links & Embeds: 
 
-### [Santa_Bárbara.public](/_public/\Earth\Continent\America~Central\Honduras\departments~HondurasSanta_Bárbara.public.md) 
+### [Santa_Bárbara](/_Standards/Earth/Continent/America~Central/Honduras/departments~Honduras/Santa_Bárbara.md) 
 
-### [Santa_Bárbara.internal](/_internal/\Earth\Continent\America~Central\Honduras\departments~HondurasSanta_Bárbara.internal.md) 
+### [Santa_Bárbara.public](/_public/Earth/Continent/America~Central/Honduras/departments~Honduras/Santa_Bárbara.public.md) 
 
-### [Santa_Bárbara.protect](/_protect/\Earth\Continent\America~Central\Honduras\departments~HondurasSanta_Bárbara.protect.md) 
+### [Santa_Bárbara.internal](/_internal/Earth/Continent/America~Central/Honduras/departments~Honduras/Santa_Bárbara.internal.md) 
 
-### [Santa_Bárbara.private](/_private/\Earth\Continent\America~Central\Honduras\departments~HondurasSanta_Bárbara.private.md) 
+### [Santa_Bárbara.protect](/_protect/Earth/Continent/America~Central/Honduras/departments~Honduras/Santa_Bárbara.protect.md) 
 
-### [Santa_Bárbara.personal](/_personal/\Earth\Continent\America~Central\Honduras\departments~HondurasSanta_Bárbara.personal.md) 
+### [Santa_Bárbara.private](/_private/Earth/Continent/America~Central/Honduras/departments~Honduras/Santa_Bárbara.private.md) 
 
-### [Santa_Bárbara.secret](/_secret/\Earth\Continent\America~Central\Honduras\departments~HondurasSanta_Bárbara.secret.md)
+### [Santa_Bárbara.personal](/_personal/Earth/Continent/America~Central/Honduras/departments~Honduras/Santa_Bárbara.personal.md) 
+
+### [Santa_Bárbara.secret](/_secret/Earth/Continent/America~Central/Honduras/departments~Honduras/Santa_Bárbara.secret.md)
 

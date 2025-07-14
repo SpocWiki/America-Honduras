@@ -41,15 +41,17 @@ markerFolder: ./Atlántida/
 
 ## Confidential Links & Embeds: 
 
-### [Atlántida.public](/_public/\Earth\Continent\America~Central\Honduras\departments~HondurasAtlántida.public.md) 
+### [Atlántida](/_Standards/Earth/Continent/America~Central/Honduras/departments~Honduras/Atlántida.md) 
 
-### [Atlántida.internal](/_internal/\Earth\Continent\America~Central\Honduras\departments~HondurasAtlántida.internal.md) 
+### [Atlántida.public](/_public/Earth/Continent/America~Central/Honduras/departments~Honduras/Atlántida.public.md) 
 
-### [Atlántida.protect](/_protect/\Earth\Continent\America~Central\Honduras\departments~HondurasAtlántida.protect.md) 
+### [Atlántida.internal](/_internal/Earth/Continent/America~Central/Honduras/departments~Honduras/Atlántida.internal.md) 
 
-### [Atlántida.private](/_private/\Earth\Continent\America~Central\Honduras\departments~HondurasAtlántida.private.md) 
+### [Atlántida.protect](/_protect/Earth/Continent/America~Central/Honduras/departments~Honduras/Atlántida.protect.md) 
 
-### [Atlántida.personal](/_personal/\Earth\Continent\America~Central\Honduras\departments~HondurasAtlántida.personal.md) 
+### [Atlántida.private](/_private/Earth/Continent/America~Central/Honduras/departments~Honduras/Atlántida.private.md) 
 
-### [Atlántida.secret](/_secret/\Earth\Continent\America~Central\Honduras\departments~HondurasAtlántida.secret.md)
+### [Atlántida.personal](/_personal/Earth/Continent/America~Central/Honduras/departments~Honduras/Atlántida.personal.md) 
+
+### [Atlántida.secret](/_secret/Earth/Continent/America~Central/Honduras/departments~Honduras/Atlántida.secret.md)
 
