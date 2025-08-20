@@ -1,36 +1,37 @@
 ---
 location:
-- 14.1
-- -87.2167
+  - 14.1
+  - -87.2167
 type: Country
 tags:
-- geo/Country
+  - geo/Country
 SpocWebEntityId: 26918
 isDeleted: false
 confidential: public
 license: CC BY-SA 4.0
 isReadOnly: false
 source: https://datahub.io/core/country-codes
-cssclasses: Country
+cssclasses:
+  - Country
 publish: true
 title: Honduras
-linkTitle: 
-keywords: 
-layout: 
+linkTitle:
+keywords:
+layout:
 draft: false
-publishDate: 
-expiryDate: 
+publishDate:
+expiryDate:
 aliases:
-- Honduras
-- هندوراس
-- 洪都拉斯
-- Гондурас
-- the Republic of Honduras
-- la República de Honduras
+  - Honduras
+  - هندوراس
+  - 洪都拉斯
+  - Гондурас
+  - the Republic of Honduras
+  - la República de Honduras
 Languages:
-- es-HN
-- cab
-- miq
+  - es-HN
+  - cab
+  - miq
 ---
 
 
