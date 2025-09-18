@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Gracias_a_Dios
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Gracias_a_Dios/
 markerFolder: ./Gracias_a_Dios/

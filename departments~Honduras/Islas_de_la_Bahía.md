@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Islas_de_la_Bahía
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Islas_de_la_Bahía/
 markerFolder: ./Islas_de_la_Bahía/

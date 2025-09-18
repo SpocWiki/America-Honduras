@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Francisco_Morazán
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Francisco_Morazán/
 markerFolder: ./Francisco_Morazán/

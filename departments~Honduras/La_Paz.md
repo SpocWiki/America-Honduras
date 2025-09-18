@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: La_Paz
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./La_Paz/
 markerFolder: ./La_Paz/
