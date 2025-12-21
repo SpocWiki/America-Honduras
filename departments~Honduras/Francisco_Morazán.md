@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Francisco_Morazán
+  - Francisco Morazán
 location:
   - 14.4
   - -87.1
@@ -12,18 +15,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - Francisco_Morazán
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # Francisco_Morazán

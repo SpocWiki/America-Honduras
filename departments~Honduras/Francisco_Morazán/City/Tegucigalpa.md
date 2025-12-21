@@ -1,6 +1,7 @@
 ---
 aliases:
   - Tegus or Teguz
+  - Tegucigalpa
 has_id_wikidata: Q3238
 location:
   - 14.1
@@ -16,40 +17,40 @@ SpocWebEntityId: 35983
 isDeleted: false
 confidential: public
 twinned_administrative_body:
-  - "[[_Standards/WikiData/WD~Gainesville,487999]]"
-  - "[[_Standards/WikiData/WD~Guatemala_City,1555]]"
-  - "[[_Standards/WikiData/WD~Taipei,1867]]"
-  - "[[_Standards/WikiData/WD~Madrid,2807]]"
-  - "[[_Standards/WikiData/WD~Bogotá,2841]]"
-  - "[[_Standards/WikiData/WD~Lima,2868]]"
-  - "[[_Standards/WikiData/WD~Amman,3805]]"
-  - "[[_Standards/WikiData/WD~Guadalajara,9022]]"
-  - "[[_Standards/WikiData/WD~New_Orleans,34404]]"
+  - '[[_Standards/WikiData/WD~Gainesville,487999]]'
+  - '[[_Standards/WikiData/WD~Guatemala_City,1555]]'
+  - '[[_Standards/WikiData/WD~Taipei,1867]]'
+  - '[[_Standards/WikiData/WD~Madrid,2807]]'
+  - '[[_Standards/WikiData/WD~Bogotá,2841]]'
+  - '[[_Standards/WikiData/WD~Lima,2868]]'
+  - '[[_Standards/WikiData/WD~Amman,3805]]'
+  - '[[_Standards/WikiData/WD~Guadalajara,9022]]'
+  - '[[_Standards/WikiData/WD~New_Orleans,34404]]'
 capital_of:
-  - "[[_Standards/WikiData/WD~Distrito_Central,609188]]"
-  - "[[_Standards/WikiData/WD~Francisco_Morazán_Department,867126]]"
-  - "[[_Standards/WikiData/WD~Honduras,783]]"
-located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Distrito_Central,609188]]"
+  - '[[_Standards/WikiData/WD~Distrito_Central,609188]]'
+  - '[[_Standards/WikiData/WD~Francisco_Morazán_Department,867126]]'
+  - '[[_Standards/WikiData/WD~Honduras,783]]'
+located_in_the_administrative_territorial_entity: '[[_Standards/WikiData/WD~Distrito_Central,609188]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~big_city,1549591]]"
-  - "[[_Standards/WikiData/WD~largest_city,51929311]]"
-  - "[[_Standards/WikiData/WD~administrative_territorial_entity,56061]]"
-located_in_or_next_to_body_of_water: "[[_Standards/WikiData/WD~Choluteca_River,2193528]]"
-category_for_people_born_here: "[[_Standards/WikiData/WD~Q8075092,8075092]]"
-history_of_topic: "[[_Standards/WikiData/WD~timeline_of_Tegucigalpa,23583292]]"
+  - '[[_Standards/WikiData/WD~big_city,1549591]]'
+  - '[[_Standards/WikiData/WD~largest_city,51929311]]'
+  - '[[_Standards/WikiData/WD~administrative_territorial_entity,56061]]'
+located_in_or_next_to_body_of_water: '[[_Standards/WikiData/WD~Choluteca_River,2193528]]'
+category_for_people_born_here: '[[_Standards/WikiData/WD~Q8075092,8075092]]'
+history_of_topic: '[[_Standards/WikiData/WD~timeline_of_Tegucigalpa,23583292]]'
 inception: 1578-09-29T00:00:00Z
 coordinate_location: Point(-87.204705555 14.105783333)
-country: "[[_Standards/WikiData/WD~Honduras,783]]"
-located_in_time_zone: "[[_Standards/WikiData/WD~UTC_06_00,5385]]"
+country: '[[_Standards/WikiData/WD~Honduras,783]]'
+located_in_time_zone: '[[_Standards/WikiData/WD~UTC_06_00,5385]]'
 elevation_above_sea_level: 990
 area: 201.5
-postal_code: "11101"
+postal_code: 11101
 population: 1055729
-OmegaWiki_Defined_Meaning: "458296"
+OmegaWiki_Defined_Meaning: 458296
 Commons_gallery: Tegucigalpa
 Commons_category: Tegucigalpa
 native_label: Tegucigalpa
@@ -58,7 +59,7 @@ flag_image: http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Teguc
 locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/FranciscoMorazanMunicipalities2.png
 page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Tegucigalpa%20Wikivoyage%20Banner.jpg
 official_website: https://amdc.hn/
-U_S_National_Archives_Identifier: "10037366"
+U_S_National_Archives_Identifier: 10037366
 UN_LOCODE: HNTGU
 demonym:
   - Tégucigalpais

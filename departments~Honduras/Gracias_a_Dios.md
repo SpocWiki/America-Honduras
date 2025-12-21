@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Gracias_a_Dios
+  - Gracias a Dios
 location:
   - 15.3
   - -84.5
@@ -12,18 +15,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - Gracias_a_Dios
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # Gracias_a_Dios

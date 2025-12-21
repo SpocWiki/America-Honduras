@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Islas_de_la_Bahía
+  - Islas de la Bahía
 location:
   - 16.1
   - -86.9
@@ -12,18 +15,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - Islas_de_la_Bahía
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # Islas_de_la_Bahía

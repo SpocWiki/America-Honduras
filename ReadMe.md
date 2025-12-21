@@ -1,4 +1,12 @@
 ---
+aliases:
+  - Honduras
+  - هندوراس
+  - 洪都拉斯
+  - Гондурас
+  - the Republic of Honduras
+  - la República de Honduras
+  - ReadMe
 location:
   - 14.1
   - -87.2167
@@ -15,19 +23,12 @@ cssclasses:
   - Country
 publish: true
 title: Honduras
-linkTitle:
-keywords:
-layout:
+linkTitle: ''
+keywords: ''
+layout: ''
 draft: false
-publishDate:
-expiryDate:
-aliases:
-  - Honduras
-  - هندوراس
-  - 洪都拉斯
-  - Гондурас
-  - the Republic of Honduras
-  - la República de Honduras
+publishDate: ''
+expiryDate: ''
 Languages:
   - es-HN
   - cab
