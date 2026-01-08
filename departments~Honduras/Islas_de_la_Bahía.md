@@ -41,17 +41,17 @@ markerFolder: ./Islas_de_la_Bahía/
 
 ## Confidential Links & Embeds: 
 
-### [Islas_de_la_Bahía](/_Standards/Earth/Continent/America~Central/Honduras/departments~Honduras/Islas_de_la_Bahía.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~Central/Honduras/departments~Honduras/Islas_de_la_Bahía|Islas_de_la_Bahía]] 
 
-### [Islas_de_la_Bahía.public](/_public/Earth/Continent/America~Central/Honduras/departments~Honduras/Islas_de_la_Bahía.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~Central/Honduras/departments~Honduras/Islas_de_la_Bahía.public|Islas_de_la_Bahía.public]] 
 
-### [Islas_de_la_Bahía.internal](/_internal/Earth/Continent/America~Central/Honduras/departments~Honduras/Islas_de_la_Bahía.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~Central/Honduras/departments~Honduras/Islas_de_la_Bahía.internal|Islas_de_la_Bahía.internal]] 
 
-### [Islas_de_la_Bahía.protect](/_protect/Earth/Continent/America~Central/Honduras/departments~Honduras/Islas_de_la_Bahía.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~Central/Honduras/departments~Honduras/Islas_de_la_Bahía.protect|Islas_de_la_Bahía.protect]] 
 
-### [Islas_de_la_Bahía.private](/_private/Earth/Continent/America~Central/Honduras/departments~Honduras/Islas_de_la_Bahía.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~Central/Honduras/departments~Honduras/Islas_de_la_Bahía.private|Islas_de_la_Bahía.private]] 
 
-### [Islas_de_la_Bahía.personal](/_personal/Earth/Continent/America~Central/Honduras/departments~Honduras/Islas_de_la_Bahía.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~Central/Honduras/departments~Honduras/Islas_de_la_Bahía.personal|Islas_de_la_Bahía.personal]] 
 
-### [Islas_de_la_Bahía.secret](/_secret/Earth/Continent/America~Central/Honduras/departments~Honduras/Islas_de_la_Bahía.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~Central/Honduras/departments~Honduras/Islas_de_la_Bahía.secret|Islas_de_la_Bahía.secret]] 
 

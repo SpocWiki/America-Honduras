@@ -40,17 +40,17 @@ markerFolder: ./Olancho/
 
 ## Confidential Links & Embeds: 
 
-### [Olancho](/_Standards/Earth/Continent/America~Central/Honduras/departments~Honduras/Olancho.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~Central/Honduras/departments~Honduras/Olancho|Olancho]] 
 
-### [Olancho.public](/_public/Earth/Continent/America~Central/Honduras/departments~Honduras/Olancho.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~Central/Honduras/departments~Honduras/Olancho.public|Olancho.public]] 
 
-### [Olancho.internal](/_internal/Earth/Continent/America~Central/Honduras/departments~Honduras/Olancho.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~Central/Honduras/departments~Honduras/Olancho.internal|Olancho.internal]] 
 
-### [Olancho.protect](/_protect/Earth/Continent/America~Central/Honduras/departments~Honduras/Olancho.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~Central/Honduras/departments~Honduras/Olancho.protect|Olancho.protect]] 
 
-### [Olancho.private](/_private/Earth/Continent/America~Central/Honduras/departments~Honduras/Olancho.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~Central/Honduras/departments~Honduras/Olancho.private|Olancho.private]] 
 
-### [Olancho.personal](/_personal/Earth/Continent/America~Central/Honduras/departments~Honduras/Olancho.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~Central/Honduras/departments~Honduras/Olancho.personal|Olancho.personal]] 
 
-### [Olancho.secret](/_secret/Earth/Continent/America~Central/Honduras/departments~Honduras/Olancho.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~Central/Honduras/departments~Honduras/Olancho.secret|Olancho.secret]] 
 

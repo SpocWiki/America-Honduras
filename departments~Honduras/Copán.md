@@ -40,17 +40,17 @@ markerFolder: ./Copán/
 
 ## Confidential Links & Embeds: 
 
-### [Copán](/_Standards/Earth/Continent/America~Central/Honduras/departments~Honduras/Copán.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~Central/Honduras/departments~Honduras/Copán|Copán]] 
 
-### [Copán.public](/_public/Earth/Continent/America~Central/Honduras/departments~Honduras/Copán.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~Central/Honduras/departments~Honduras/Copán.public|Copán.public]] 
 
-### [Copán.internal](/_internal/Earth/Continent/America~Central/Honduras/departments~Honduras/Copán.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~Central/Honduras/departments~Honduras/Copán.internal|Copán.internal]] 
 
-### [Copán.protect](/_protect/Earth/Continent/America~Central/Honduras/departments~Honduras/Copán.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~Central/Honduras/departments~Honduras/Copán.protect|Copán.protect]] 
 
-### [Copán.private](/_private/Earth/Continent/America~Central/Honduras/departments~Honduras/Copán.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~Central/Honduras/departments~Honduras/Copán.private|Copán.private]] 
 
-### [Copán.personal](/_personal/Earth/Continent/America~Central/Honduras/departments~Honduras/Copán.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~Central/Honduras/departments~Honduras/Copán.personal|Copán.personal]] 
 
-### [Copán.secret](/_secret/Earth/Continent/America~Central/Honduras/departments~Honduras/Copán.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~Central/Honduras/departments~Honduras/Copán.secret|Copán.secret]] 
 

@@ -40,17 +40,17 @@ markerFolder: ./Colón/
 
 ## Confidential Links & Embeds: 
 
-### [Colón](/_Standards/Earth/Continent/America~Central/Honduras/departments~Honduras/Colón.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~Central/Honduras/departments~Honduras/Colón|Colón]] 
 
-### [Colón.public](/_public/Earth/Continent/America~Central/Honduras/departments~Honduras/Colón.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~Central/Honduras/departments~Honduras/Colón.public|Colón.public]] 
 
-### [Colón.internal](/_internal/Earth/Continent/America~Central/Honduras/departments~Honduras/Colón.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~Central/Honduras/departments~Honduras/Colón.internal|Colón.internal]] 
 
-### [Colón.protect](/_protect/Earth/Continent/America~Central/Honduras/departments~Honduras/Colón.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~Central/Honduras/departments~Honduras/Colón.protect|Colón.protect]] 
 
-### [Colón.private](/_private/Earth/Continent/America~Central/Honduras/departments~Honduras/Colón.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~Central/Honduras/departments~Honduras/Colón.private|Colón.private]] 
 
-### [Colón.personal](/_personal/Earth/Continent/America~Central/Honduras/departments~Honduras/Colón.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~Central/Honduras/departments~Honduras/Colón.personal|Colón.personal]] 
 
-### [Colón.secret](/_secret/Earth/Continent/America~Central/Honduras/departments~Honduras/Colón.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~Central/Honduras/departments~Honduras/Colón.secret|Colón.secret]] 
 

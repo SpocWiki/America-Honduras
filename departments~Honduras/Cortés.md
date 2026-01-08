@@ -40,17 +40,17 @@ markerFolder: ./Cortés/
 
 ## Confidential Links & Embeds: 
 
-### [Cortés](/_Standards/Earth/Continent/America~Central/Honduras/departments~Honduras/Cortés.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~Central/Honduras/departments~Honduras/Cortés|Cortés]] 
 
-### [Cortés.public](/_public/Earth/Continent/America~Central/Honduras/departments~Honduras/Cortés.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~Central/Honduras/departments~Honduras/Cortés.public|Cortés.public]] 
 
-### [Cortés.internal](/_internal/Earth/Continent/America~Central/Honduras/departments~Honduras/Cortés.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~Central/Honduras/departments~Honduras/Cortés.internal|Cortés.internal]] 
 
-### [Cortés.protect](/_protect/Earth/Continent/America~Central/Honduras/departments~Honduras/Cortés.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~Central/Honduras/departments~Honduras/Cortés.protect|Cortés.protect]] 
 
-### [Cortés.private](/_private/Earth/Continent/America~Central/Honduras/departments~Honduras/Cortés.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~Central/Honduras/departments~Honduras/Cortés.private|Cortés.private]] 
 
-### [Cortés.personal](/_personal/Earth/Continent/America~Central/Honduras/departments~Honduras/Cortés.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~Central/Honduras/departments~Honduras/Cortés.personal|Cortés.personal]] 
 
-### [Cortés.secret](/_secret/Earth/Continent/America~Central/Honduras/departments~Honduras/Cortés.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~Central/Honduras/departments~Honduras/Cortés.secret|Cortés.secret]] 
 

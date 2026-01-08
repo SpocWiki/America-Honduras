@@ -40,17 +40,17 @@ markerFolder: ./Comayagua/
 
 ## Confidential Links & Embeds: 
 
-### [Comayagua](/_Standards/Earth/Continent/America~Central/Honduras/departments~Honduras/Comayagua.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~Central/Honduras/departments~Honduras/Comayagua|Comayagua]] 
 
-### [Comayagua.public](/_public/Earth/Continent/America~Central/Honduras/departments~Honduras/Comayagua.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~Central/Honduras/departments~Honduras/Comayagua.public|Comayagua.public]] 
 
-### [Comayagua.internal](/_internal/Earth/Continent/America~Central/Honduras/departments~Honduras/Comayagua.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~Central/Honduras/departments~Honduras/Comayagua.internal|Comayagua.internal]] 
 
-### [Comayagua.protect](/_protect/Earth/Continent/America~Central/Honduras/departments~Honduras/Comayagua.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~Central/Honduras/departments~Honduras/Comayagua.protect|Comayagua.protect]] 
 
-### [Comayagua.private](/_private/Earth/Continent/America~Central/Honduras/departments~Honduras/Comayagua.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~Central/Honduras/departments~Honduras/Comayagua.private|Comayagua.private]] 
 
-### [Comayagua.personal](/_personal/Earth/Continent/America~Central/Honduras/departments~Honduras/Comayagua.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~Central/Honduras/departments~Honduras/Comayagua.personal|Comayagua.personal]] 
 
-### [Comayagua.secret](/_secret/Earth/Continent/America~Central/Honduras/departments~Honduras/Comayagua.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~Central/Honduras/departments~Honduras/Comayagua.secret|Comayagua.secret]] 
 

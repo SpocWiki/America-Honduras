@@ -41,17 +41,17 @@ markerFolder: ./Francisco_Morazán/
 
 ## Confidential Links & Embeds: 
 
-### [Francisco_Morazán](/_Standards/Earth/Continent/America~Central/Honduras/departments~Honduras/Francisco_Morazán.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~Central/Honduras/departments~Honduras/Francisco_Morazán|Francisco_Morazán]] 
 
-### [Francisco_Morazán.public](/_public/Earth/Continent/America~Central/Honduras/departments~Honduras/Francisco_Morazán.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~Central/Honduras/departments~Honduras/Francisco_Morazán.public|Francisco_Morazán.public]] 
 
-### [Francisco_Morazán.internal](/_internal/Earth/Continent/America~Central/Honduras/departments~Honduras/Francisco_Morazán.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~Central/Honduras/departments~Honduras/Francisco_Morazán.internal|Francisco_Morazán.internal]] 
 
-### [Francisco_Morazán.protect](/_protect/Earth/Continent/America~Central/Honduras/departments~Honduras/Francisco_Morazán.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~Central/Honduras/departments~Honduras/Francisco_Morazán.protect|Francisco_Morazán.protect]] 
 
-### [Francisco_Morazán.private](/_private/Earth/Continent/America~Central/Honduras/departments~Honduras/Francisco_Morazán.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~Central/Honduras/departments~Honduras/Francisco_Morazán.private|Francisco_Morazán.private]] 
 
-### [Francisco_Morazán.personal](/_personal/Earth/Continent/America~Central/Honduras/departments~Honduras/Francisco_Morazán.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~Central/Honduras/departments~Honduras/Francisco_Morazán.personal|Francisco_Morazán.personal]] 
 
-### [Francisco_Morazán.secret](/_secret/Earth/Continent/America~Central/Honduras/departments~Honduras/Francisco_Morazán.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~Central/Honduras/departments~Honduras/Francisco_Morazán.secret|Francisco_Morazán.secret]] 
 

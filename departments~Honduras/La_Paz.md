@@ -41,17 +41,17 @@ markerFolder: ./La_Paz/
 
 ## Confidential Links & Embeds: 
 
-### [La_Paz](/_Standards/Earth/Continent/America~Central/Honduras/departments~Honduras/La_Paz.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~Central/Honduras/departments~Honduras/La_Paz|La_Paz]] 
 
-### [La_Paz.public](/_public/Earth/Continent/America~Central/Honduras/departments~Honduras/La_Paz.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~Central/Honduras/departments~Honduras/La_Paz.public|La_Paz.public]] 
 
-### [La_Paz.internal](/_internal/Earth/Continent/America~Central/Honduras/departments~Honduras/La_Paz.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~Central/Honduras/departments~Honduras/La_Paz.internal|La_Paz.internal]] 
 
-### [La_Paz.protect](/_protect/Earth/Continent/America~Central/Honduras/departments~Honduras/La_Paz.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~Central/Honduras/departments~Honduras/La_Paz.protect|La_Paz.protect]] 
 
-### [La_Paz.private](/_private/Earth/Continent/America~Central/Honduras/departments~Honduras/La_Paz.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~Central/Honduras/departments~Honduras/La_Paz.private|La_Paz.private]] 
 
-### [La_Paz.personal](/_personal/Earth/Continent/America~Central/Honduras/departments~Honduras/La_Paz.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~Central/Honduras/departments~Honduras/La_Paz.personal|La_Paz.personal]] 
 
-### [La_Paz.secret](/_secret/Earth/Continent/America~Central/Honduras/departments~Honduras/La_Paz.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~Central/Honduras/departments~Honduras/La_Paz.secret|La_Paz.secret]] 
 

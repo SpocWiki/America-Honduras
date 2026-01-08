@@ -1,4 +1,13 @@
-﻿---
+---
+dv_is_a_: "[[../../../../../../Geography/Place]]"
+dv_has_place_longitude: -87.21667
+dv_has_place_latitude: 14.1
+dv_name: Tegucigalpa
+dv_Unknown: 32
+dv_is_:
+  same_as: "[[../../../../../../../WikiData/WD~Tegucigalpa,3238|WD~Tegucigalpa,3238]]"
+dv_is_same_as: "[[../../../../../../../WikiData/WD~Tegucigalpa,3238|WD~Tegucigalpa,3238]]"
+
 has_time_started: 1578-09-29 
 aliases:
   - Tegus or Teguz
@@ -73,16 +82,16 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Centro%20historico%20d
 # [[Tegucigalpa]] 
 
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::-87.21667] 
-[has_place_latitude::14.1] 
-[name::Tegucigalpa] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
 Country :: [[../../../../Honduras]]  
 [StateId::] 
 [Population::] 
-[Unknown::32] 
-#is_/same_as :: [[../../../../../../../WikiData/WD~Tegucigalpa,3238|WD~Tegucigalpa,3238]] 
+Unknown = `=this.dv_Unknown` 
+is_same_as = `=this.dv_is_same_as`
 
 ## #has_/map 
 
@@ -130,19 +139,20 @@ maxZoom: 18
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Tegucigalpa)
 
+
 ## Confidential Links & Embeds: 
 
-### [Tegucigalpa](/_Standards/Earth/Continent/America~Central/Honduras/departments~Honduras/Francisco_Morazán/City/Tegucigalpa.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~Central/Honduras/departments~Honduras/Francisco_Morazán/City/Tegucigalpa|Tegucigalpa]] 
 
-### [Tegucigalpa.public](/_public/Earth/Continent/America~Central/Honduras/departments~Honduras/Francisco_Morazán/City/Tegucigalpa.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~Central/Honduras/departments~Honduras/Francisco_Morazán/City/Tegucigalpa.public|Tegucigalpa.public]] 
 
-### [Tegucigalpa.internal](/_internal/Earth/Continent/America~Central/Honduras/departments~Honduras/Francisco_Morazán/City/Tegucigalpa.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~Central/Honduras/departments~Honduras/Francisco_Morazán/City/Tegucigalpa.internal|Tegucigalpa.internal]] 
 
-### [Tegucigalpa.protect](/_protect/Earth/Continent/America~Central/Honduras/departments~Honduras/Francisco_Morazán/City/Tegucigalpa.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~Central/Honduras/departments~Honduras/Francisco_Morazán/City/Tegucigalpa.protect|Tegucigalpa.protect]] 
 
-### [Tegucigalpa.private](/_private/Earth/Continent/America~Central/Honduras/departments~Honduras/Francisco_Morazán/City/Tegucigalpa.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~Central/Honduras/departments~Honduras/Francisco_Morazán/City/Tegucigalpa.private|Tegucigalpa.private]] 
 
-### [Tegucigalpa.personal](/_personal/Earth/Continent/America~Central/Honduras/departments~Honduras/Francisco_Morazán/City/Tegucigalpa.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~Central/Honduras/departments~Honduras/Francisco_Morazán/City/Tegucigalpa.personal|Tegucigalpa.personal]] 
 
-### [Tegucigalpa.secret](/_secret/Earth/Continent/America~Central/Honduras/departments~Honduras/Francisco_Morazán/City/Tegucigalpa.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~Central/Honduras/departments~Honduras/Francisco_Morazán/City/Tegucigalpa.secret|Tegucigalpa.secret]] 
 

@@ -40,17 +40,17 @@ markerFolder: ./Choluteca/
 
 ## Confidential Links & Embeds: 
 
-### [Choluteca](/_Standards/Earth/Continent/America~Central/Honduras/departments~Honduras/Choluteca.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~Central/Honduras/departments~Honduras/Choluteca|Choluteca]] 
 
-### [Choluteca.public](/_public/Earth/Continent/America~Central/Honduras/departments~Honduras/Choluteca.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~Central/Honduras/departments~Honduras/Choluteca.public|Choluteca.public]] 
 
-### [Choluteca.internal](/_internal/Earth/Continent/America~Central/Honduras/departments~Honduras/Choluteca.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~Central/Honduras/departments~Honduras/Choluteca.internal|Choluteca.internal]] 
 
-### [Choluteca.protect](/_protect/Earth/Continent/America~Central/Honduras/departments~Honduras/Choluteca.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~Central/Honduras/departments~Honduras/Choluteca.protect|Choluteca.protect]] 
 
-### [Choluteca.private](/_private/Earth/Continent/America~Central/Honduras/departments~Honduras/Choluteca.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~Central/Honduras/departments~Honduras/Choluteca.private|Choluteca.private]] 
 
-### [Choluteca.personal](/_personal/Earth/Continent/America~Central/Honduras/departments~Honduras/Choluteca.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~Central/Honduras/departments~Honduras/Choluteca.personal|Choluteca.personal]] 
 
-### [Choluteca.secret](/_secret/Earth/Continent/America~Central/Honduras/departments~Honduras/Choluteca.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~Central/Honduras/departments~Honduras/Choluteca.secret|Choluteca.secret]] 
 

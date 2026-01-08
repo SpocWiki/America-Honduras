@@ -40,17 +40,17 @@ markerFolder: ./Valle/
 
 ## Confidential Links & Embeds: 
 
-### [Valle](/_Standards/Earth/Continent/America~Central/Honduras/departments~Honduras/Valle.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~Central/Honduras/departments~Honduras/Valle|Valle]] 
 
-### [Valle.public](/_public/Earth/Continent/America~Central/Honduras/departments~Honduras/Valle.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~Central/Honduras/departments~Honduras/Valle.public|Valle.public]] 
 
-### [Valle.internal](/_internal/Earth/Continent/America~Central/Honduras/departments~Honduras/Valle.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~Central/Honduras/departments~Honduras/Valle.internal|Valle.internal]] 
 
-### [Valle.protect](/_protect/Earth/Continent/America~Central/Honduras/departments~Honduras/Valle.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~Central/Honduras/departments~Honduras/Valle.protect|Valle.protect]] 
 
-### [Valle.private](/_private/Earth/Continent/America~Central/Honduras/departments~Honduras/Valle.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~Central/Honduras/departments~Honduras/Valle.private|Valle.private]] 
 
-### [Valle.personal](/_personal/Earth/Continent/America~Central/Honduras/departments~Honduras/Valle.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~Central/Honduras/departments~Honduras/Valle.personal|Valle.personal]] 
 
-### [Valle.secret](/_secret/Earth/Continent/America~Central/Honduras/departments~Honduras/Valle.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~Central/Honduras/departments~Honduras/Valle.secret|Valle.secret]] 
 
