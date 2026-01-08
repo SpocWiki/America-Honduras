@@ -2,7 +2,7 @@
 dv_is_a_: "[[../../../../../../Geography/Place]]"
 dv_has_place_longitude: -87.21667
 dv_has_place_latitude: 14.1
-dv_name: Tegucigalpa
+dv_has_name_: Tegucigalpa
 dv_Unknown: 32
 dv_is_:
   same_as: "[[../../../../../../../WikiData/WD~Tegucigalpa,3238|WD~Tegucigalpa,3238]]"

@@ -41,15 +41,13 @@ dv_ISO4217-currency_country_name: HONDURAS
 dv_Telephone: 504
 dv_Global: true
 dv_Global_Name: World
-dv_name: Honduras
-dv_name-en:
-  - Honduras
-  - Honduras
-dv_name-es: Honduras
-dv_name-fr: Honduras
-dv_name-cn: 洪都拉斯
-dv_name-ar: هندوراس
-dv_name-ru: Гондурас
+dv_has_name_: Honduras
+dv_has_name_en: Honduras
+dv_has_name_es: Honduras
+dv_has_name_fr: Honduras
+dv_has_name_cn: 洪都拉斯
+dv_has_name_ar: هندوراس
+dv_has_name_ru: Гондурас
 dv_CLDR_display_name: Honduras
 dv_UNTERM_English: Honduras
 dv_UNTERM_English_Formal: the Republic of Honduras
@@ -86,7 +84,7 @@ dv_Developed_:
 dv_ISO3166-1-numeric: 340
 dv_ISO2: HN
 dv_ISO3: HND
-dv_name-de: Honduras
+dv_has_name_de: Honduras
 dv_Area-Total: 112088
 dv_Area-Land: 111890
 dv_Continent: "[[South-America]]"
@@ -113,12 +111,12 @@ Global = `=this.dv_Global`
 Global_Name = `=this.dv_Global_Name` 
 
 name = `=this.dv_name` 
-[	name-en	 :: Honduras ] 
-name-es = `=this.dv_name-es` 
-name-fr = `=this.dv_name-fr` 
-name-cn = `=this.dv_name-cn` 
-name-ar = `=this.dv_name-ar` 
-name-ru = `=this.dv_name-ru` 
+[	has_name_en	 :: Honduras ] 
+has_name_es = `=this.dv_has_name_es` 
+has_name_fr = `=this.dv_has_name_fr` 
+has_name_cn = `=this.dv_has_name_cn` 
+has_name_ar = `=this.dv_has_name_ar` 
+has_name_ru = `=this.dv_has_name_ru` 
 
 CLDR_display_name = `=this.dv_CLDR_display_name` 
 
@@ -178,8 +176,8 @@ geojsonFolder: .//
 markerFolder: ./
 ```
 
-[name-en::Honduras] 
-name-de = `=this.dv_name-de` 
+[has_name_en::Honduras] 
+has_name_de = `=this.dv_has_name_de` 
 Area-Total = `=this.dv_Area-Total` 
 Area-Land = `=this.dv_Area-Land` 
 Continent = `=this.dv_Continent`
