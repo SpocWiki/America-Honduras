@@ -2,7 +2,7 @@
 dv_is_a_: "[[../../../../../../Geography/Place]]"
 dv_has_place_longitude: -87.21667
 dv_has_place_latitude: 14.1
-dv_has_name_: Tegucigalpa
+dv_has_name: Tegucigalpa
 dv_Unknown: 32
 dv_is_:
   same_as: "[[../../../../../../../WikiData/WD~Tegucigalpa,3238|WD~Tegucigalpa,3238]]"
@@ -85,7 +85,7 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Centro%20historico%20d
 is_a_ = `=this.dv_is_a_`
 has_place_longitude = `=this.dv_has_place_longitude` 
 has_place_latitude = `=this.dv_has_place_latitude` 
-name = `=this.dv_name` 
+name = `=this.dv_has_name` 
 State ::  
 Country :: [[../../../../Honduras]]  
 [StateId::] 
