@@ -193,7 +193,7 @@ contains_the_administrative_territorial_entity:
 - '[[/_Standards/WikiData/WD~Choluteca_Department,899272|WD~Choluteca_Department,899272]]'
 - '[[/_Standards/WikiData/WD~Yoro_Department,1123380|WD~Yoro_Department,1123380]]'
 described_by_source:
-- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
 - '[[/_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
 - '[[/_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656|WD~The_Nuttall_Encyclopædia,3181656]]'
 - '[[/_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391|WD~Sytin_Military_Encyclopedia,4114391]]'
@@ -744,7 +744,7 @@ dv_ISO2: HN
 dv_ISO3: HND
 dv_is_:
   same_as:
-  - '[[../../../WikiData/WD~Honduras,783|WD~Honduras,783]]'
+  - '[[../../../../WikiData/WD~Honduras,783|WD~Honduras,783]]'
   - '[[/_Standards/Earth/Continent/America~Central/Honduras|Honduras]]'
   - '[[/_public/Earth/Continent/America~Central/Honduras.public|Honduras.public]]'
   - '[[/_internal/Earth/Continent/America~Central/Honduras.internal|Honduras.internal]]'
@@ -764,7 +764,7 @@ dv_has_place_latitude: 14.1
 dv_has_url_for_code_repository: https://github.com/SpocWiki/America-Honduras
 dv_developed_developing_countries: Developing
 dv_is_same_as:
-- '[[../../../WikiData/WD~Honduras,783|WD~Honduras,783]]'
+- '[[../../../../WikiData/WD~Honduras,783|WD~Honduras,783]]'
 - '[[/_Standards/Earth/Continent/America~Central/Honduras|Honduras]]'
 - '[[/_public/Earth/Continent/America~Central/Honduras.public|Honduras.public]]'
 - '[[/_internal/Earth/Continent/America~Central/Honduras.internal|Honduras.internal]]'
@@ -782,7 +782,7 @@ Unicode_character: 🇭🇳
 For more Details, check out this Repository into this Subfolder: 
 has_url_for_code_repository = `=this.dv_has_url_for_code_repository`
 
-[[Honduras/ReadMe|ReadMe]] 
+[[ReadMe|ReadMe]] 
 
 ISO4217-currency_alphabetic = `=this.dv_ISO4217-currency_alphabetic` 
 ISO4217-currency_name = `=this.dv_ISO4217-currency_name`
@@ -850,7 +850,7 @@ ISO3166-1-numeric = `=this.dv_ISO3166-1-numeric`
 ISO2 = `=this.dv_ISO2`
 ISO3 = `=this.dv_ISO3` 
 
-#is_/same_as :: [[../../../WikiData/WD~Honduras,783|WD~Honduras,783]] 
+#is_/same_as :: [[../../../../WikiData/WD~Honduras,783|WD~Honduras,783]] 
 
 ## #has_/map  
 
@@ -869,7 +869,7 @@ markerFile: [[Honduras]]
 
 ```leaflet
 id: Honduras_Topological
-image: [[../../../../../_public/xLarge.public/Earth/Earth-Topological.png|Earth-Topological.png]]
+image: [[../../../../../../_public/xLarge.public/Earth/Earth-Topological.png|Earth-Topological.png]]
 bounds:
   - [-90, -180]
   - [90, 180]
@@ -893,13 +893,13 @@ Area-Total = `=this.dv_Area-Total`
 Area-Land = `=this.dv_Area-Land`
 has_place_continent = `=this.dv_has_place_continent`
 VehicleCode = `=this.dv_VehicleCode`
-Capital :: [[Honduras/Counties/Francisco_Morazán/City/Tegucigalpa|Tegucigalpa]]  
+Capital :: [[Counties/Francisco_Morazán/City/Tegucigalpa|Tegucigalpa]]  
 
-![[Honduras/Coat_of_arms_of_Honduras.svg|350]]
+![[Coat_of_arms_of_Honduras.svg|350]]
 
-![[../../../../_public/xLarge.public/National-Anthem/Anthem-Honduras.mp3|Anthem-Honduras.mp3]]
+![[../../../../../_public/xLarge.public/National-Anthem/Anthem-Honduras.mp3|Anthem-Honduras.mp3]]
 
-![[Honduras/Flag_of_Honduras.svg|350]]
+![[Flag_of_Honduras.svg|350]]
 
 Alcohol-l = `=this.dv_Alcohol-l`
 Language-Id = `=this.dv_Language-Id`
